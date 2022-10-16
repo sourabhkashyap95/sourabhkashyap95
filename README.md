@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Sourabh, a full-time backend developer developer 👨‍💻 working since 2016 🚀</div>  
+### <div align="left">I'm Sourabh, a full-time backend developer developer 👨‍💻 working since 2016 🚀</div>  
   
 
 - 🌱 I’m currently learning about databases, distributed systems, and Kubernetes  
