@@ -9,7 +9,7 @@
 ### <div align="left">I'm Sourabh, a full-time backend developer developer 👨‍💻 working since 2016 🚀</div>  
   
 
-- 🌱 I’m currently learning about databases and web3 tech.
+- 🌱 I’m currently learning about databases, distributed systems and trying my hands on frontend.
   
 
 - ❓ Ask me about anything related to spring boot, redis, postgres, mongoDB, kafka and microservices  
